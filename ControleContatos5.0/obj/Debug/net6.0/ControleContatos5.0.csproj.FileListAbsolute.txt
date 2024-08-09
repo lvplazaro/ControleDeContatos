@@ -1,0 +1,792 @@
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\appsettings.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.staticwebassets.runtime.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.exe
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.deps.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.runtimeconfig.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.pdb
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.csproj.AssemblyReference.cache
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.AssemblyInfoInputs.cache
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.AssemblyInfo.cs
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.csproj.CoreCompileInputs.cache
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.RazorAssemblyInfo.cache
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.RazorAssemblyInfo.cs
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.ControleContatos5.0.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.build.ControleContatos5.0.props
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControleContatos5.0.props
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControleContatos5.0.props
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\scopedcss\bundle\ControleContatos5.0.styles.css
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.csproj.CopyComplete
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\refint\ControleContatos5.0.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.pdb
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.genruntimeconfig.cache
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ref\ControleContatos5.0.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lazrs\OneDrive - Etec Centro Paula Souza\Desktop\C# Udemy\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\appsettings.Development.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\appsettings.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.staticwebassets.runtime.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.exe
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.deps.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.runtimeconfig.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ControleContatos5.0.pdb
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\netstandard.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Console.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Data.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Web.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Azure.Core.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Humanizer.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.CodeDom.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Text.Json.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.csproj.AssemblyReference.cache
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.AssemblyInfoInputs.cache
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.AssemblyInfo.cs
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.csproj.CoreCompileInputs.cache
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.RazorAssemblyInfo.cache
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.RazorAssemblyInfo.cs
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.ControleContatos5.0.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.build.ControleContatos5.0.props
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControleContatos5.0.props
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControleContatos5.0.props
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\scopedcss\bundle\ControleContatos5.0.styles.css
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\Controle.7B962A28.Up2Date
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\refint\ControleContatos5.0.dll
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.pdb
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ControleContatos5.0.genruntimeconfig.cache
+D:\Projetos\PenDrive040424\ControleContatos5.0\ControleContatos5.0\obj\Debug\net6.0\ref\ControleContatos5.0.dll
